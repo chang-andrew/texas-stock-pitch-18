@@ -49,6 +49,8 @@ a,
 		-ms-transition: all 0.125s ease-in-out 0s;
 		 -o-transition: all 0.125s ease-in-out 0s;
 			transition: all 0.125s ease-in-out 0s;
+
+
 }
 
 /* ---------------------------------------------- /*
@@ -190,8 +192,11 @@ textarea.form-control {
 	outline: inherit !important;
 }
 
-/* Button size */
 
+/* Button size */
+.btn-link{
+	float:right;
+}
 .btn-lg,
 .btn-group-lg > .btn {
 	padding: 10px 25px;
