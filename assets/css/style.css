@@ -20,7 +20,7 @@ img {
 }
 
 a {
-	color: #E7746F;
+	color: #17A7EE;
 }
 
 a:hover {
@@ -419,13 +419,13 @@ textarea.form-control {
 #social{
 	font-size: 300%;
 	padding: 30px;
-	border: 10px #E7746F;
+	border: 10px #17A7EE;
 	
 }
 
 #social-footer{
 	font-size: 300%;
-	border: 10px #E7746F;
+	border: 10px #17A7EE;
 	padding: 0px;
 	margin-left: 20px;
 }
@@ -956,7 +956,7 @@ figure.effect-bubba:hover p {
 	position: relative;
 	margin: 3em auto 0em auto;
 	max-width: 90%;
-	width: 90%;
+	width: 80%;
 }
 
 .cbp-qtrotator .cbp-qtcontent {
@@ -995,7 +995,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtprogress {
 	position: absolute;
-	background: #FF5252;
+	background: #17A7EE;
 	height: 1px;
 	width: 0%;
 	top: 0;
@@ -1469,7 +1469,7 @@ rgba(0, 0, 0, 0)
 }
 
 .time-col{
-border-top-color: #E7746F;
+border-top-color: #17A7EE;
 ;
 border-top-style:
 solid
@@ -2108,23 +2108,14 @@ rgba(0, 0, 0, 0)
 
 
 /* Footer Section Formatting */
-.footer-section1{
-	width: calc(50% - 4em);
-	text-align: left;
-	
-}
-
-.footer-section2{
-	width: calc(50% - 4em);
-	text-align: center;
-}
 
 .footer-title{
 	color: white;
 }
 
 .footer-container{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
+	width: 70%;
+	justify-self: center;
+	justify-content: center;
+	margin-left: 15%;
 }
