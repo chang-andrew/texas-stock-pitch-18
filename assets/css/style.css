@@ -239,7 +239,7 @@ textarea.form-control {
 .button_slide {
   color: #FFF;
   background-color: #17A7EE;
-  border: 2px solid rgb(0, 77, 204);
+  /* border: 2px solid rgb(0, 77, 204); */
   border-radius: 0px;
   padding: 18px 36px;
   display: inline-block;
@@ -419,16 +419,11 @@ textarea.form-control {
 #social{
 	font-size: 300%;
 	padding: 30px;
-	border: 10px #17A7EE;
-	
+	border: 10px white;	
+	color: white;
 }
 
-#social-footer{
-	font-size: 300%;
-	border: 10px #17A7EE;
-	padding: 0px;
-	margin-left: 20px;
-}
+
 
 /* ---------------------------------------------- /*
  * About
@@ -647,7 +642,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav > li.active a {
 	background: none;
 	outline: 0;
-	color: #E7746F;
+	color: #17A7EE;
 }
 
 .navbar-custom .navbar-brand {
@@ -658,7 +653,7 @@ textarea.form-control {
 
 .navbar-custom .dropdown-menu {
 	border: 0;
-	border-top: 2px solid #E7746F;
+	border-top: 2px solid #17A7EE;
 	border-radius: 0;
 }
 
@@ -702,7 +697,7 @@ textarea.form-control {
 .scroll-up a:hover,
 .scroll-up a:active {
 	background-color: rgba(235, 235, 235, .8);
-	color: #e7746f;
+	color: #17A7EE;
 }
 
 /* ---------------------------------------------- /*
@@ -2118,4 +2113,21 @@ rgba(0, 0, 0, 0)
 	justify-self: center;
 	justify-content: center;
 	margin-left: 15%;
+}
+
+
+.map{
+	justify-content: center;
+}
+
+.special-col{
+	padding: 0px;
+}
+
+.social-icon{
+	color:white;
+}
+
+.bottom-button{
+	margin-top: 35px;
 }
