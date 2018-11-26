@@ -1,10 +1,4 @@
-Hi!
+Work in progress:
+--Schedule section does not resize well
+--Additional Events descriptions
 
-So in the code, I've kind of added comments and like changed the texts to indicate ideas I had.
-For example, one section had these squares with hover-over animations, thought we might be able to use that for sponsors.
-
-Was trying to rip the UMICH schedule thingy, but it's really broken, so maybe if we downloaded all their style sheets and 
-then used their code verbatim? Haha, not sure.
-
-Also, I don't know if this is just when trying to load locally, but the bootstrap at the top of page is broken, not sure
-if worth to fix :( 
