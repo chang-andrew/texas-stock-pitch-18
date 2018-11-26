@@ -27,7 +27,7 @@
 		// default transition easing
 		easing : 'ease',
 		// rotator interval (ms)
-		interval : 5000
+		interval : 3600
 	};
 
 	$.CBPQTRotator.prototype = {
