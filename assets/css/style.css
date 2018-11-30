@@ -27,6 +27,10 @@ a {
 	color: black;
 }
 
+.white-link{
+	color: white;
+}
+
 a:hover {
 	text-decoration: none;
 	color: #E73C7E;
