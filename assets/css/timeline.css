@@ -1,5 +1,6 @@
 .main-timeline{
     position: relative;
+    font-family: 'Montserrat', sans-serif;
 }
 .main-timeline:before{
     content: '';
