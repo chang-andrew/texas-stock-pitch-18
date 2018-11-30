@@ -1181,8 +1181,10 @@ visibility:
 visible
 ;
 width:
-100%
+88%
 ;
+margin-left: 6%;
+margin-right: 6%;
 -webkit-tap-highlight-color:
 rgba(0, 0, 0, 0)
 ;
