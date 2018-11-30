@@ -1181,7 +1181,7 @@ visibility:
 visible
 ;
 width:
-1140px
+100%
 ;
 -webkit-tap-highlight-color:
 rgba(0, 0, 0, 0)
@@ -1465,7 +1465,7 @@ rgba(0, 0, 0, 0)
 	visible
 	;
 	width:
-	1140px
+	100%px
 	;
 	-webkit-tap-highlight-color:
 	rgba(0, 0, 0, 0)
@@ -1575,7 +1575,7 @@ visibility:
 visible
 ;
 width:
-285px
+25%
 ;
 -webkit-tap-highlight-color:
 rgba(0, 0, 0, 0)
@@ -1691,9 +1691,7 @@ baseline
 visibility:
 visible
 ;
-width:
-855px
-;
+width:75%;
 -webkit-tap-highlight-color:
 rgba(0, 0, 0, 0)
 ;
@@ -1845,7 +1843,7 @@ visibility:
 visible
 ;
 width:
-1140px
+100%
 ;
 -webkit-tap-highlight-color:
 rgba(0, 0, 0, 0)
@@ -1995,7 +1993,7 @@ rgba(0, 0, 0, 0)
 	visible
 	;
 	width:
-	285px
+	25%
 	;
 	-webkit-tap-highlight-color:
 	rgba(0, 0, 0, 0)
@@ -2072,42 +2070,19 @@ margin-right:
 margin-top:
 0px
 ;
-min-height:
-1px
-;
-padding-bottom:
-10px
-;
-padding-left:
-0px
-;
-padding-right:
-0px
-;
-padding-top:
-5px
-;
-position:
-relative
-;
-text-align:
-left
-;
-text-size-adjust:
-100%
-;
-vertical-align:
-baseline
-;
-visibility:
-visible
-;
-width:
-855px
-;
--webkit-tap-highlight-color:
-rgba(0, 0, 0, 0)
-;
+min-height:1px;
+padding-bottom:10px;
+padding-left:0px;
+padding-right:0px;
+padding-top:5px;
+position:relative;
+text-align: left;
+text-size-adjust: 100%;
+vertical-align:baseline;
+visibility:visible;
+width:75%;
+
+-webkit-tap-highlight-color:rgba(0, 0, 0, 0);
 }
 
 
