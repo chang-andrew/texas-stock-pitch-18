@@ -2160,10 +2160,14 @@ width:75%;
 	font-family: 'Montserrat', sans-serif;
 	font-style: normal;
 	font-size: 18px;
+	margin-top: 4%;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 970px) {
 	.column {
 		width: 100%;
+	}
+	.column-container{
+		margin-top: 15%;
 	}
 }
 
