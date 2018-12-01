@@ -854,7 +854,7 @@
 		display: block;
 		float: left;
 		font-family: Raleway, sans-serif;
-		font-size: 14px;
+		font-size: 13px;
 		font-stretch: 100%;
 		font-style: normal;
 		font-variant-caps: normal;
@@ -950,7 +950,7 @@
 @media screen and (max-width: 420px){
 	.special-time-col{
 		min-width: 140px;
-		margin-right: 3.5%;
+		margin-right: 3%;
 	}
 	.dropdown-description {
 		border-top-color:
@@ -970,7 +970,7 @@
 		font-family:
 			Raleway, sans-serif;
 		font-size:
-			12px;
+			11px;
 		font-stretch:
 			100%;
 		font-style:
