@@ -949,7 +949,7 @@
 
 @media screen and (max-width: 420px){
 	.special-time-col{
-		min-width: 140px;
+		min-width: 130px;
 		margin-right: 3%;
 	}
 	.dropdown-description {
