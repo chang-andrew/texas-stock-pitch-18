@@ -636,6 +636,7 @@
 
 .special-time-col {
 	min-width: 170px;
+	margin-right: 5%;
 }
 
 @media screen and (max-width: 970px) {
@@ -796,6 +797,7 @@
 
 	.special-time-col {
 		min-width: 140px;
+		margin-right: 4.5%;
 	}
 
 	.time-col {
@@ -946,6 +948,10 @@
 }
 
 @media screen and (max-width: 420px){
+	.special-time-col{
+		min-width: 140px;
+		margin-right: 3.5%;
+	}
 	.dropdown-description {
 		border-top-color:
 			rgb(95, 96, 97);
