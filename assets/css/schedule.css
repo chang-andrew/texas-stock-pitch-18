@@ -945,7 +945,7 @@
 	}
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 420px){
 	.dropdown-description {
 		border-top-color:
 			rgb(95, 96, 97);
