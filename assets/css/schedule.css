@@ -1,4 +1,14 @@
 /* Schedule */
+
+.extra-dropdown{
+	margin-top: 0px;
+}
+@media screen and (max-width: 500px){
+	.extra-dropdown{
+		margin-top: 25px;
+	}
+}
+
 .time-block {
 	border-bottom-color:
 		rgb(95, 96, 97);
@@ -442,8 +452,7 @@
 		0px;
 	margin-right:
 		0px;
-	margin-top:
-		0px;
+
 	min-height:
 		1px;
 	padding-bottom:
