@@ -703,6 +703,14 @@ textarea.form-control {
 	font-family: 'Montserrat', sans-serif;
 }
 
+@media screen and (max-width: 400px){
+	.navbar-custom .navbar-brand {
+		font-weight: 700;
+		font-size: 17px;
+		font-family: 'Montserrat', sans-serif;
+	}
+}
+
 .navbar-custom .dropdown-menu {
 	border: 0;
 	border-top: 2px solid #17A7EE;
