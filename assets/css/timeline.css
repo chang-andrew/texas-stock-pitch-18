@@ -30,7 +30,7 @@
 .timeline-flex-row {
   width: 97%;
   margin-right: 3%;
-  height: 110px;
+  height: 150px;
   flex-shrink: 0;
   border-bottom: .7px solid black;
 
@@ -55,12 +55,13 @@
   font-size: 18px;
   font-style: italic;
   margin-bottom: 0px;
+  line-height: 1;
 }
 
 @media screen and (max-width: 970px) {
   .timeline-flex-row {
     width: 100%;
-    height: 90px;
+    height: 130px;
   }
 
   .timeline-titles {
