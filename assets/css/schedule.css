@@ -1373,7 +1373,7 @@
 }
 
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 405px){
 	.special-time-col{
 		min-width: 125px;
 		margin-right: 3%;
@@ -1470,7 +1470,7 @@
 		display: block;
 		float: left;
 		font-family: Raleway, sans-serif;
-		font-size: 14px;
+		font-size: 17.5px;
 		font-stretch: 100%;
 		font-style: normal;
 		font-variant-caps: normal;
@@ -1559,7 +1559,7 @@
 		font-weight:
 			300;
 		height:
-			70px;
+			85px;
 		letter-spacing:
 			3.6px;
 		line-height:
