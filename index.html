@@ -38,6 +38,20 @@
 
 </head>
 <body>
+	<div id="overlay2">
+		<div id="popupbox">
+			<div style="width: 5%; margin-left: 93%;">
+				<a style="font-size: 25px;" onclick="closePopup()">&times;</a>
+			</div>
+			<div style="width: 90%; margin-left: 5%; margin-top: 5%;">
+				<h2>Texas Stock Pitch 2020</h2>
+				<p>Texas Stock Pitch 2019 has officially ended! Thank you to everyone who attended, and check back around early 2020 for more information on TSP 2020! Otherwise, feel free to look around the 2019 site.</p>
+				<div style="display: flex; justify-content: center; margin-top: 25px; width: 70%; margin-left: 15%;">
+					<button class="btn-primary" style="border-radius: 5px; width: 40%" onclick="closePopup()">Okay, cool!</button>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<!-- Home start -->
 		<!-- HOME ID IS WHERE PIC IS -->
@@ -1086,6 +1100,30 @@
 	<script>
 	particlesJS.load('particles-js', 'assets/json/particles.json', function() {
 	console.log('callback - particles.js config loaded');});
+	</script>
+	<script>
+		// $.fn.scrollView = function () {
+		// return this.each(function () {
+		// 	$('html, body').animate({
+		// 		scrollTop: $(this).offset().top
+		// 	}, 1000);
+		// });
+		// }
+	
+		// var timeout = 1500;
+		// if (window.performance) {
+		// 	if (performance.navigation.type == 1) {
+		// 		timeout = 600;
+		// 	} 
+		// }
+
+		setTimeout(function(){
+			$("#overlay2").css("display", "flex");
+		}, 1000);
+	
+		function closePopup(){
+			$("#overlay2").remove();
+		}
 	</script>
 
 </body>

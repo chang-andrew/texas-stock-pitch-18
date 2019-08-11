@@ -1269,3 +1269,29 @@ figure.effect-bubba:hover p {
 	max-height: 100%;
 	max-width: 100%;
 }
+
+#overlay2{
+	background: rgba(206, 206, 206, 0.527);
+	position:fixed;
+  z-index:99999;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+	transition: 1.4s 1.4s;
+	display: none;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	-webkit-transition-duration: .5s;
+	transition-duration: .5s;
+}
+
+#popupbox{
+	height: 400px;
+	width: 500px;
+	background: white;
+	text-align: center;
+	border-radius: 10px;
+}
